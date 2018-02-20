@@ -1,0 +1,11 @@
+framework module SwipeViewController {
+  umbrella header "SwipeViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SwipeViewController.Swift {
+    header "SwipeViewController-Swift.h"
+    requires objc
+}

@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "13daf5ec4352ad875c46a700af1eec5e"
+build_time: [1517481495, 309045000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Utilities/DataStructures/IndexedMap.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Components/PageboyAutoScroller.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Extensions/PageboyViewController+Extras.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Extensions/PageboyViewController+Management.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Extensions/PageboyViewController+ScrollDetection.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Extensions/PageboyViewController+Transitioning.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/PageboyViewController.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/PageboyViewControllerDataSource.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/PageboyViewControllerDelegate.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Utilities/Transitioning/TransitionOperation+Action.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Utilities/Transitioning/TransitionOperation.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Utilities/ViewUtilities/UIPageViewController+ScrollView.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Utilities/ViewUtilities/UIView+AutoLayout.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Utilities/ViewUtilities/UIView+Localization.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Extensions/UIViewController+PageboyExtras.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Pageboy/Sources/Pageboy/Utilities/DataStructures/WeakWrapper.swift": [9223372036, 854775807]

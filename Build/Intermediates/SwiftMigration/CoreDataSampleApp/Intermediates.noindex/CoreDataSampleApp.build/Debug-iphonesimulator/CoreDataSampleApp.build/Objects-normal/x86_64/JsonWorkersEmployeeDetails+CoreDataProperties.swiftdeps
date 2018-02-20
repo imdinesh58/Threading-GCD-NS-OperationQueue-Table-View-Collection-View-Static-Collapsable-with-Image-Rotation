@@ -1,0 +1,215 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", ""]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "fetchRequest"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "activeYN"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "address"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "email"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "employeeID"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "employeeLevelID"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "employeeStatus"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "firstName"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "isEnabled"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "lastName"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "levelName"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "phone"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "userMobileID"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "workDetails"]
+provides-dynamic-lookup:
+- "activeYN"
+- "address"
+- "email"
+- "employeeID"
+- "employeeLevelID"
+- "employeeStatus"
+- "firstName"
+- "isEnabled"
+- "lastName"
+- "levelName"
+- "phone"
+- "userMobileID"
+- "workDetails"
+depends-top-level:
+- "JsonWorkersEmployeeDetails"
+- "NSFetchRequest"
+- "NSObject"
+- "String"
+- !private "StringLiteralType"
+depends-member:
+- !private ["s23BidirectionalCollectionP", "init"]
+- !private ["s7CVarArgP", "NSFetchRequest"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s10CollectionP", "init"]
+- !private ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "NSFetchRequest"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s23CustomStringConvertibleP", "NSFetchRequest"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s9DecodableP", "init"]
+- !private ["s9EncodableP", "init"]
+- !private ["s9EquatableP", "NSFetchRequest"]
+- !private ["s9EquatableP", "init"]
+- !private ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s26ExpressibleByStringLiteralP", "init"]
+- !private ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "NSFetchRequest"]
+- !private ["s8HashableP", "init"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "JsonWorkersEmployeeDetails"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "NSFetchRequest"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "NSObject"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "String"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "activeYN"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "address"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "deinit"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "email"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "employeeID"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "employeeLevelID"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "employeeStatus"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "fetchRequest"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "firstName"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "isEnabled"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "lastName"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "levelName"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "phone"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "userMobileID"]
+- ["17CoreDataSampleApp26JsonWorkersEmployeeDetailsC", "workDetails"]
+- !private ["s25LosslessStringConvertibleP", "init"]
+- !private ["s10MirrorPathP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So14NSFetchRequestC", "init"]
+- !private ["So20NSFetchRequestResultP", "NSFetchRequest"]
+- !private ["So21NSItemProviderReadingP", "init"]
+- !private ["So21NSItemProviderWritingP", "init"]
+- ["So15NSManagedObjectC", "JsonWorkersEmployeeDetails"]
+- ["So15NSManagedObjectC", "NSFetchRequest"]
+- ["So15NSManagedObjectC", "NSObject"]
+- ["So15NSManagedObjectC", "String"]
+- ["So15NSManagedObjectC", "activeYN"]
+- ["So15NSManagedObjectC", "address"]
+- ["So15NSManagedObjectC", "email"]
+- ["So15NSManagedObjectC", "employeeID"]
+- ["So15NSManagedObjectC", "employeeLevelID"]
+- ["So15NSManagedObjectC", "employeeStatus"]
+- ["So15NSManagedObjectC", "fetchRequest"]
+- ["So15NSManagedObjectC", "firstName"]
+- ["So15NSManagedObjectC", "isEnabled"]
+- ["So15NSManagedObjectC", "lastName"]
+- ["So15NSManagedObjectC", "levelName"]
+- ["So15NSManagedObjectC", "phone"]
+- ["So15NSManagedObjectC", "userMobileID"]
+- ["So15NSManagedObjectC", "workDetails"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "JsonWorkersEmployeeDetails"]
+- ["So8NSObjectC", "NSFetchRequest"]
+- ["So8NSObjectC", "NSObject"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "activeYN"]
+- ["So8NSObjectC", "address"]
+- ["So8NSObjectC", "email"]
+- ["So8NSObjectC", "employeeID"]
+- ["So8NSObjectC", "employeeLevelID"]
+- ["So8NSObjectC", "employeeStatus"]
+- ["So8NSObjectC", "fetchRequest"]
+- ["So8NSObjectC", "firstName"]
+- ["So8NSObjectC", "isEnabled"]
+- ["So8NSObjectC", "lastName"]
+- ["So8NSObjectC", "levelName"]
+- ["So8NSObjectC", "phone"]
+- ["So8NSObjectC", "userMobileID"]
+- ["So8NSObjectC", "workDetails"]
+- !private ["So16NSObjectProtocolP", "NSFetchRequest"]
+- !private ["So16NSObjectProtocolP", "init"]
+- !private ["So14NSSecureCodingP", "init"]
+- !private ["So8NSStringC", "init"]
+- !private ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s8SequenceP", "init"]
+- !private ["SS", "init"]
+- !private ["s14StringProtocolP", "init"]
+- !private ["s16TextOutputStreamP", "init"]
+- !private ["s20TextOutputStreamableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "init"]
+- !private ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- !private ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- !private ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "init"]
+- !private ["s14_IndexableBaseP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "NSFetchRequest"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "s23BidirectionalCollectionP"
+- !private "s7CVarArgP"
+- !private "s10CollectionP"
+- !private "s10ComparableP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "s9DecodableP"
+- !private "s9EncodableP"
+- !private "s9EquatableP"
+- !private "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s26ExpressibleByStringLiteralP"
+- !private "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "s8HashableP"
+- "17CoreDataSampleApp26JsonWorkersEmployeeDetailsC"
+- !private "s25LosslessStringConvertibleP"
+- !private "s10MirrorPathP"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So14NSFetchRequestC"
+- !private "So20NSFetchRequestResultP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So15NSManagedObjectC"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- !private "So16NSObjectProtocolP"
+- !private "So14NSSecureCodingP"
+- !private "So8NSStringC"
+- !private "s26RangeReplaceableCollectionP"
+- !private "s8SequenceP"
+- !private "SS"
+- !private "s14StringProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s20TextOutputStreamableP"
+- !private "s23_BidirectionalIndexableP"
+- !private "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- !private "s34_ExpressibleByBuiltinStringLiteralP"
+- !private "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- !private "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s10_IndexableP"
+- !private "s14_IndexableBaseP"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s26_RangeReplaceableIndexableP"
+- !private "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "823db7baa778c0b8ee8dc6ac0782e81a"

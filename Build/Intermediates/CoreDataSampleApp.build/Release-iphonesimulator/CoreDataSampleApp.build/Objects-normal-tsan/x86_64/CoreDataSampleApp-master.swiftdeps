@@ -1,0 +1,14 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "af522f195815c4d21a32dc9dc85be63e"
+build_time: [1519131310, 984855000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/ViewController2.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/TableViewController.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonAssignedTasks+CoreDataClass.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonAssignedTasks+CoreDataProperties.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonWorkersEmployeeDetails+CoreDataClass.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonWorkersEmployeeDetails+CoreDataProperties.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Person+CoreDataClass.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Person+CoreDataProperties.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/CoreDataSampleApp.build/Release-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/CoreDataSampleApp+CoreDataModel.swift": [9223372036, 854775807]

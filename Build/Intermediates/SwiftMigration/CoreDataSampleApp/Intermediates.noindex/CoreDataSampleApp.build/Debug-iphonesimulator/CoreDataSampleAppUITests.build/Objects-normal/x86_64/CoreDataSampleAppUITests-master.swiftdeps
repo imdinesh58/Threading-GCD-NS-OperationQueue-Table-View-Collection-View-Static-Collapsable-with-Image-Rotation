@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "b85f399037a4f46a4d9a7f31263a2a04"
+build_time: [1516617098, 845531000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleAppUITests/CoreDataSampleAppUITests.swift": [1510727196, 0]

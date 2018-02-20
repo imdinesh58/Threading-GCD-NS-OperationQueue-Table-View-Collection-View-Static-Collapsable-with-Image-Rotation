@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "9c499a6d5110f9438f55f4433722b7b8"
+build_time: [1516778686, 313175000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/SwipeViewController/Pod/Classes/InterfaceController.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/SwipeViewController/Pod/Classes/SwipeViewController.swift": [9223372036, 854775807]

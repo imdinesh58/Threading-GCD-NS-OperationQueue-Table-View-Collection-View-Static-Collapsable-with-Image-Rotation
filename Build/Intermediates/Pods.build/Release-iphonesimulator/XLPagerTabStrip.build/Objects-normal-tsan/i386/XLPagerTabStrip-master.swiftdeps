@@ -1,0 +1,17 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "9eda7b226721e711b1f550bed89d5ed9"
+build_time: [1519110089, 47633000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/BarPagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/BarView.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/BaseButtonBarPagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/ButtonBarPagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/ButtonBarView.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/ButtonBarViewCell.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/IndicatorInfo.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/PagerTabStripBehaviour.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/PagerTabStripError.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/PagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/SegmentedPagerTabStripViewController.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/SwipeDirection.swift": [9223372036, 854775807]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/XLPagerTabStrip/Sources/TwitterPagerTabStripViewController.swift": [9223372036, 854775807]

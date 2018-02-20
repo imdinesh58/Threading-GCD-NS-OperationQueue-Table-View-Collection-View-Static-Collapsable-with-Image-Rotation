@@ -1,0 +1,10 @@
+framework module TabPageViewController {
+  umbrella header "TabPageViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module TabPageViewController.__Swift {
+    exclude header "TabPageViewController-Swift.h"
+}

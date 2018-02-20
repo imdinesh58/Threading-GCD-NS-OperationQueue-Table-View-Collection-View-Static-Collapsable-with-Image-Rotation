@@ -1,0 +1,15 @@
+PODS:
+  - SwiftyJSON (4.0.0)
+  - XLPagerTabStrip (8.0.0)
+
+DEPENDENCIES:
+  - SwiftyJSON
+  - XLPagerTabStrip
+
+SPEC CHECKSUMS:
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+  XLPagerTabStrip: d1ab378af0923320ec0b5eab11d7b2f803d31261
+
+PODFILE CHECKSUM: 322ad6d9d5fc4caecb93d3816a084da07b533aee
+
+COCOAPODS: 1.4.0

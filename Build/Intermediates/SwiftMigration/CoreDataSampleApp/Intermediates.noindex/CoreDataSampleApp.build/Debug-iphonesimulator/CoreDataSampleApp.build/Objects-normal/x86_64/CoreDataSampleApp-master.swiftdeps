@@ -1,0 +1,13 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "c268ebee9d8c496bbd47c773d569b481"
+build_time: [1516617073, 645453000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/testViewController.swift": [1516616199, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/AppDelegate.swift": [1510727195, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/SwiftMigration/CoreDataSampleApp/Intermediates.noindex/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonAssignedTasks+CoreDataClass.swift": [1516617073, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/SwiftMigration/CoreDataSampleApp/Intermediates.noindex/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonAssignedTasks+CoreDataProperties.swift": [1516617073, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/SwiftMigration/CoreDataSampleApp/Intermediates.noindex/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonWorkersEmployeeDetails+CoreDataClass.swift": [1516617073, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/SwiftMigration/CoreDataSampleApp/Intermediates.noindex/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/JsonWorkersEmployeeDetails+CoreDataProperties.swift": [1516617073, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/SwiftMigration/CoreDataSampleApp/Intermediates.noindex/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Person+CoreDataClass.swift": [1516617073, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/SwiftMigration/CoreDataSampleApp/Intermediates.noindex/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Person+CoreDataProperties.swift": [1516617073, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/SwiftMigration/CoreDataSampleApp/Intermediates.noindex/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/CoreDataSampleApp+CoreDataModel.swift": [1516617073, 0]
